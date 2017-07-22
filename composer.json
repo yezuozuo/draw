@@ -1,0 +1,5 @@
+{
+    "require": {
+        "graphp/graphviz": "^0.2.1"
+    }
+}
